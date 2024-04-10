@@ -1,0 +1,139 @@
+INFO 2024-04-09 23:53:27,303 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-04-09 23:53:44,537 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-04-09 23:55:06,604 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-04-09 23:55:08,518 basehttp 212 "GET / HTTP/1.1" 200 10565
+INFO 2024-04-09 23:56:00,611 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-04-09 23:56:49,172 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-04-09 23:56:52,190 basehttp 212 "GET / HTTP/1.1" 200 10565
+INFO 2024-04-09 23:59:50,979 autoreload 266 C:\CodeProjects\dzswjs\apps\ranks\models.py changed, reloading.
+INFO 2024-04-09 23:59:51,344 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-04-10 00:00:22,080 autoreload 266 C:\CodeProjects\dzswjs\apps\ranks\models.py changed, reloading.
+INFO 2024-04-10 00:00:22,466 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-04-10 00:13:07,296 autoreload 266 C:\CodeProjects\dzswjs\dzswjs\urls.py changed, reloading.
+INFO 2024-04-10 00:13:07,750 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-04-10 00:13:11,028 autoreload 668 Watching for file changes with StatReloader
+WARNING 2024-04-10 00:13:13,326 log 241 Not Found: /
+WARNING 2024-04-10 00:13:13,326 basehttp 212 "GET / HTTP/1.1" 404 2227
+WARNING 2024-04-10 00:13:17,554 log 241 Not Found: /rank
+WARNING 2024-04-10 00:13:17,554 basehttp 212 "GET /rank HTTP/1.1" 404 2257
+WARNING 2024-04-10 00:13:20,851 log 241 Not Found: /ranks
+WARNING 2024-04-10 00:13:20,853 basehttp 212 "GET /ranks HTTP/1.1" 404 2260
+WARNING 2024-04-10 00:13:37,865 log 241 Not Found: /ranks/
+WARNING 2024-04-10 00:13:37,866 basehttp 212 "GET /ranks/ HTTP/1.1" 404 2263
+WARNING 2024-04-10 00:13:44,003 log 241 Not Found: /ranks
+WARNING 2024-04-10 00:13:44,005 basehttp 212 "GET /ranks HTTP/1.1" 404 2260
+WARNING 2024-04-10 00:14:03,885 log 241 Not Found: /ranks
+WARNING 2024-04-10 00:14:03,886 basehttp 212 "GET /ranks HTTP/1.1" 404 2260
+WARNING 2024-04-10 00:14:12,852 log 241 Not Found: /ranks
+WARNING 2024-04-10 00:14:12,853 basehttp 212 "GET /ranks HTTP/1.1" 404 2260
+INFO 2024-04-10 00:15:17,773 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-04-10 00:15:20,841 basehttp 212 "GET /ranks HTTP/1.1" 200 23481
+INFO 2024-04-10 00:15:21,084 basehttp 212 "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+INFO 2024-04-10 00:15:21,088 basehttp 212 "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1793
+INFO 2024-04-10 00:15:21,088 basehttp 212 "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3426
+INFO 2024-04-10 00:15:21,092 basehttp 212 "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+INFO 2024-04-10 00:15:21,092 basehttp 212 "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+INFO 2024-04-10 00:15:21,095 basehttp 212 "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+INFO 2024-04-10 00:15:21,096 basehttp 212 "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3796
+INFO 2024-04-10 00:15:21,096 basehttp 212 "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+INFO 2024-04-10 00:15:21,096 basehttp 212 "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 200 59
+INFO 2024-04-10 00:15:21,096 basehttp 212 "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+INFO 2024-04-10 00:15:21,098 basehttp 212 "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 200 87533
+INFO 2024-04-10 00:15:21,105 basehttp 212 "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+INFO 2024-04-10 00:15:21,164 basehttp 212 "GET /static/rest_framework/css/bootstrap.min.css.map HTTP/1.1" 200 540434
+INFO 2024-04-10 09:46:53,194 autoreload 668 Watching for file changes with StatReloader
+WARNING 2024-04-10 09:46:56,790 log 241 Not Found: /
+WARNING 2024-04-10 09:46:56,791 basehttp 212 "GET / HTTP/1.1" 404 2226
+WARNING 2024-04-10 09:46:56,972 log 241 Not Found: /favicon.ico
+WARNING 2024-04-10 09:46:56,972 basehttp 212 "GET /favicon.ico HTTP/1.1" 404 2277
+INFO 2024-04-10 09:47:03,184 basehttp 212 "GET /ranks HTTP/1.1" 200 23481
+INFO 2024-04-10 09:47:03,237 basehttp 212 "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 304 0
+INFO 2024-04-10 09:47:03,237 basehttp 212 "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 304 0
+INFO 2024-04-10 09:47:03,238 basehttp 212 "GET /static/rest_framework/css/prettify.css HTTP/1.1" 304 0
+INFO 2024-04-10 09:47:03,239 basehttp 212 "GET /static/rest_framework/css/default.css HTTP/1.1" 304 0
+INFO 2024-04-10 09:47:03,241 basehttp 212 "GET /static/rest_framework/js/jquery-3.7.1.min.js HTTP/1.1" 304 0
+INFO 2024-04-10 09:47:03,241 basehttp 212 "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 304 0
+INFO 2024-04-10 09:47:03,241 basehttp 212 "GET /static/rest_framework/js/csrf.js HTTP/1.1" 304 0
+INFO 2024-04-10 09:47:03,242 basehttp 212 "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 304 0
+INFO 2024-04-10 09:47:03,243 basehttp 212 "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 304 0
+INFO 2024-04-10 09:47:03,244 basehttp 212 "GET /static/rest_framework/js/default.js HTTP/1.1" 304 0
+INFO 2024-04-10 09:47:03,244 basehttp 212 "GET /static/rest_framework/js/load-ajax-form.js HTTP/1.1" 304 0
+INFO 2024-04-10 09:47:03,254 basehttp 212 "GET /static/rest_framework/img/grid.png HTTP/1.1" 304 0
+INFO 2024-04-10 09:49:56,677 autoreload 266 C:\CodeProjects\dzswjs\dzswjs\settings.py changed, reloading.
+INFO 2024-04-10 09:49:57,027 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-04-10 09:49:59,829 autoreload 668 Watching for file changes with StatReloader
+WARNING 2024-04-10 09:50:01,724 log 241 Not Found: /
+WARNING 2024-04-10 09:50:01,724 basehttp 212 "GET / HTTP/1.1" 404 2226
+INFO 2024-04-10 09:50:06,114 basehttp 212 "GET /ranks HTTP/1.1" 200 23481
+INFO 2024-04-10 09:52:34,888 autoreload 266 C:\CodeProjects\dzswjs\dzswjs\settings.py changed, reloading.
+INFO 2024-04-10 09:52:35,280 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-04-10 09:53:07,713 autoreload 266 C:\CodeProjects\dzswjs\dzswjs\urls.py changed, reloading.
+INFO 2024-04-10 09:53:08,105 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-04-10 09:53:23,819 autoreload 266 C:\CodeProjects\dzswjs\dzswjs\urls.py changed, reloading.
+INFO 2024-04-10 09:53:24,259 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-04-10 09:53:26,319 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-04-10 09:53:38,198 autoreload 668 Watching for file changes with StatReloader
+WARNING 2024-04-10 09:53:40,342 log 241 Not Found: /
+WARNING 2024-04-10 09:53:40,342 basehttp 212 "GET / HTTP/1.1" 404 2645
+INFO 2024-04-10 09:53:50,214 basehttp 212 "GET /swagger HTTP/1.1" 301 0
+INFO 2024-04-10 09:53:50,236 basehttp 212 "GET /swagger/ HTTP/1.1" 200 2182
+INFO 2024-04-10 09:53:50,599 basehttp 212 "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-bundle.js HTTP/1.1" 200 1046583
+INFO 2024-04-10 09:53:50,608 basehttp 212 "GET /static/drf-yasg/swagger-ui-dist/swagger-ui.css HTTP/1.1" 200 145206
+INFO 2024-04-10 09:53:50,610 basehttp 212 "GET /static/drf-yasg/swagger-ui-init.js HTTP/1.1" 200 14964
+INFO 2024-04-10 09:53:50,619 basehttp 212 "GET /static/drf-yasg/style.css HTTP/1.1" 200 1047
+INFO 2024-04-10 09:53:50,627 basehttp 212 "GET /static/drf-yasg/immutable.min.js HTTP/1.1" 200 56904
+INFO 2024-04-10 09:53:50,629 basehttp 212 "GET /static/drf-yasg/insQ.min.js HTTP/1.1" 200 2093
+INFO 2024-04-10 09:53:50,632 basehttp 212 "GET /static/drf-yasg/swagger-ui-dist/swagger-ui-standalone-preset.js HTTP/1.1" 200 322863
+INFO 2024-04-10 09:53:50,759 basehttp 212 "GET /static/drf-yasg/swagger-ui-dist/favicon-32x32.png HTTP/1.1" 200 628
+INFO 2024-04-10 09:53:50,763 basehttp 212 "GET /swagger/?format=openapi HTTP/1.1" 200 494
+INFO 2024-04-10 09:54:01,495 basehttp 212 "GET /swagger/?format=openapi HTTP/1.1" 200 494
+INFO 2024-04-10 09:54:33,793 autoreload 266 C:\CodeProjects\dzswjs\dzswjs\urls.py changed, reloading.
+INFO 2024-04-10 09:54:34,192 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-04-10 09:54:36,512 basehttp 212 "GET /swagger/?format=openapi HTTP/1.1" 200 496
+WARNING 2024-04-10 09:54:44,750 log 241 Not Found: /swagger/ui
+WARNING 2024-04-10 09:54:44,752 basehttp 212 "GET /swagger/ui HTTP/1.1" 404 2693
+INFO 2024-04-10 09:54:55,511 basehttp 212 "GET /redoc HTTP/1.1" 301 0
+INFO 2024-04-10 09:54:55,529 basehttp 212 "GET /redoc/ HTTP/1.1" 200 953
+INFO 2024-04-10 09:54:55,579 basehttp 212 "GET /static/drf-yasg/style.css HTTP/1.1" 304 0
+INFO 2024-04-10 09:54:55,584 basehttp 212 "GET /static/drf-yasg/insQ.min.js HTTP/1.1" 304 0
+INFO 2024-04-10 09:54:55,713 basehttp 212 "GET /static/drf-yasg/redoc-init.js HTTP/1.1" 200 2566
+INFO 2024-04-10 09:54:55,722 basehttp 212 "GET /static/drf-yasg/redoc/redoc.min.js HTTP/1.1" 200 1042511
+INFO 2024-04-10 09:54:55,794 basehttp 212 "GET /redoc/?format=openapi HTTP/1.1" 200 496
+INFO 2024-04-10 09:54:55,801 basehttp 212 "GET /static/drf-yasg/redoc/redoc-logo.png HTTP/1.1" 200 4969
+INFO 2024-04-10 09:55:17,667 autoreload 266 C:\CodeProjects\dzswjs\dzswjs\urls.py changed, reloading.
+INFO 2024-04-10 09:55:18,114 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-04-10 09:55:22,793 basehttp 212 "GET /ranks HTTP/1.1" 200 23481
+INFO 2024-04-10 09:55:51,949 autoreload 266 C:\CodeProjects\dzswjs\dzswjs\urls.py changed, reloading.
+INFO 2024-04-10 09:55:52,391 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-04-10 09:57:04,917 autoreload 266 C:\CodeProjects\dzswjs\dzswjs\settings.py changed, reloading.
+INFO 2024-04-10 09:57:05,269 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-04-10 09:57:27,789 autoreload 266 C:\CodeProjects\dzswjs\dzswjs\settings.py changed, reloading.
+INFO 2024-04-10 09:57:28,183 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-04-10 09:57:59,653 autoreload 266 C:\CodeProjects\dzswjs\dzswjs\settings.py changed, reloading.
+INFO 2024-04-10 09:58:00,002 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-04-10 09:58:14,574 autoreload 266 C:\CodeProjects\dzswjs\dzswjs\settings.py changed, reloading.
+INFO 2024-04-10 09:58:14,918 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-04-10 09:58:56,509 autoreload 266 C:\CodeProjects\dzswjs\dzswjs\urls.py changed, reloading.
+INFO 2024-04-10 09:58:56,883 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-04-10 09:59:10,763 autoreload 266 C:\CodeProjects\dzswjs\dzswjs\urls.py changed, reloading.
+INFO 2024-04-10 09:59:11,133 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-04-10 09:59:13,369 autoreload 668 Watching for file changes with StatReloader
+WARNING 2024-04-10 09:59:15,519 log 241 Not Found: /
+WARNING 2024-04-10 09:59:15,519 basehttp 212 "GET / HTTP/1.1" 404 2612
+INFO 2024-04-10 09:59:22,550 basehttp 212 "GET /swagger/ui/ HTTP/1.1" 200 4659
+INFO 2024-04-10 09:59:23,142 basehttp 212 "GET /swagger/json/ HTTP/1.1" 200 1098
+INFO 2024-04-10 09:59:33,431 basehttp 212 "GET /ranks HTTP/1.1" 200 7017
+INFO 2024-04-10 10:00:39,774 autoreload 668 Watching for file changes with StatReloader
+WARNING 2024-04-10 10:00:49,904 log 241 Not Found: /
+WARNING 2024-04-10 10:00:49,906 basehttp 212 "GET / HTTP/1.1" 404 2612
+WARNING 2024-04-10 10:00:49,918 log 241 Not Found: /
+WARNING 2024-04-10 10:00:49,919 basehttp 212 "GET / HTTP/1.1" 404 2612
+INFO 2024-04-10 10:00:55,929 basehttp 212 "GET /swagger/ui/ HTTP/1.1" 200 4659
+INFO 2024-04-10 10:00:56,165 basehttp 212 "GET /swagger/json/ HTTP/1.1" 200 1098
+INFO 2024-04-10 10:01:02,131 basehttp 212 "GET /ranks HTTP/1.1" 200 7017
+INFO 2024-04-10 10:04:37,634 basehttp 212 "GET /ranks HTTP/1.1" 200 7017
+INFO 2024-04-10 10:12:22,784 autoreload 266 C:\CodeProjects\dzswjs\apps\ranks\views.py changed, reloading.
+INFO 2024-04-10 10:12:23,300 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-04-10 10:17:40,238 autoreload 266 C:\CodeProjects\dzswjs\apps\ranks\views.py changed, reloading.
+INFO 2024-04-10 10:17:40,647 autoreload 668 Watching for file changes with StatReloader
+INFO 2024-04-10 10:17:50,019 autoreload 668 Watching for file changes with StatReloader
